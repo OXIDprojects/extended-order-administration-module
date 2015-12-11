@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="ISO-8859-15"?>
+<OX>
+    <OXMENU id="NAVIGATION_ESHOPADMIN">
+        <MAINMENU id="mxorders">
+            <SUBMENU id="mxorderovw" cl="oeExtendedOrderAdminListOrder" />
+            <SUBMENU id="mxpacklist" cl="oeextendedorderadminorderpackage" />
+        </MAINMENU>
+    </OXMENU>
+</OX>

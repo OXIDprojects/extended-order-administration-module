@@ -22,7 +22,7 @@ It also allows to print all this information.
 
 ##Setup
 
-- Clone module to your Shop modules directory:
+- Clone module to your Shop `modules/oe/` directory:
 ```
   git clone git@github.com:OXID-eSales/extended_order_administration_module.git oeextendedorderadmin
 ```

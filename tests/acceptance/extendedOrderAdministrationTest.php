@@ -23,9 +23,8 @@
  */
 
 /** Search and sorting in admin. */
-class AdminSearchAndSortingAdminTest extends \OxidEsales\TestingLibrary\AcceptanceTestCase
+class oeExtendedOrderAdministrationTest extends \OxidEsales\TestingLibrary\AcceptanceTestCase
 {
-
     /**
      * Activates Extended Order Admin module
      *

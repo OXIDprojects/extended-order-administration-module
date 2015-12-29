@@ -22,9 +22,9 @@ It also allows to print all this information.
 
 ##Setup
 
-- Clone module to your Shop `modules/oe/` directory:
+- Clone module to your eShop `modules/oe/` directory:
 ```
-  git clone git@github.com:OXID-eSales/extended_order_administration_module.git oeextendedorderadmin
+  git clone https://github.com/OXID-eSales/extended_order_administration_module.git oeextendedorderadmin
 ```
  
 - Activate the module in administration area.

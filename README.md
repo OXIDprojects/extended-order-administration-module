@@ -8,7 +8,7 @@ This module gives extended view about order for Shop administrator.
 ![order_list](https://cloud.githubusercontent.com/assets/3603014/11781385/34046c32-a272-11e5-84eb-6489fbe9c847.png)
 
 ### Order summary
-Displays all products which were bought with a date when product was ordered last time.
+Displays all products which were bought. Date of last purchase, amount of items sold and total cost is shown.
 
 ![order_summary](https://cloud.githubusercontent.com/assets/3603014/11781387/3426f900-a272-11e5-8db7-4e29344566d6.png)
 

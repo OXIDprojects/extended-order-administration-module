@@ -19,7 +19,7 @@
  * @package       oeextendedorderadmin
  * @author        OXID eSales AG
  * @link          http://www.oxid-esales.com/
- * @copyright (C) (C) OXID eSales AG 2003-2015
+ * @copyright     (C) OXID eSales AG 2003-2015
  */
 
 /**

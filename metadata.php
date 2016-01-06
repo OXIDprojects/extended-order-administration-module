@@ -47,12 +47,12 @@ $aModule = array(
     'email'       => 'info@oxid-esales.com',
     'extend'      => array(),
     'files'       => array(
-        'oeextendedorderadminorderpackage' => 'oe/oeextendedorderadmin/controllers/admin/oeextendedorderadminorderpackage.php',
-        'oeextendedorderadminlistorder' => 'oe/oeextendedorderadmin/controllers/admin/oeextendedorderadminlistorder.php',
+        'oeextendedorderadminorderpackage' => 'oe/extendedorderadmin/controllers/admin/oeextendedorderadminorderpackage.php',
+        'oeextendedorderadminlistorder' => 'oe/extendedorderadmin/controllers/admin/oeextendedorderadminlistorder.php',
     ),
     'templates'   => array(
-        'oeextendedorderadminorderpackage.tpl' => 'oe/oeextendedorderadmin/views/admin/tpl/oeextendedorderadminorderpackage.tpl',
-        'oeextendedorderadminlistorder.tpl' => 'oe/oeextendedorderadmin/views/admin/tpl/oeextendedorderadminlistorder.tpl',
+        'oeextendedorderadminorderpackage.tpl' => 'oe/extendedorderadmin/views/admin/tpl/oeextendedorderadminorderpackage.tpl',
+        'oeextendedorderadminlistorder.tpl' => 'oe/extendedorderadmin/views/admin/tpl/oeextendedorderadminlistorder.tpl',
     ),
     'blocks'      => array(),
     'settings'    => array(),

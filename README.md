@@ -1,36 +1,35 @@
 Extended Order Admin module
 ===========================
 
-##Introduction
+##Description
 
-This module gives extended view about order for Shop administrator.
+Extended views of order management for online merchants + pick lists
 
 ![order_list](https://cloud.githubusercontent.com/assets/3603014/11781385/34046c32-a272-11e5-84eb-6489fbe9c847.png)
 
 ### Order summary
-Displays all products which were bought. Date of last purchase, amount of items sold and total cost is shown.
+Displays all products bought, date of the last purchase, amount of items sold and total cost.
 
 ![order_summary](https://cloud.githubusercontent.com/assets/3603014/11781387/3426f900-a272-11e5-8db7-4e29344566d6.png)
 
-### Pick (packing) list
-Allows to see list of products for each order which is not shipped.
-It also allows to print all this information.
+### Pick list (for packing)
+Lists product items that are payed (excl. cash in advance) and not shipped yet. These information can be printed for the warehousepersons.
 
 ![pick_list](https://cloud.githubusercontent.com/assets/3603014/11781386/34269672-a272-11e5-9e64-20d4295e8022.png)
 
 [pick_list.pdf](https://github.com/OXID-eSales/extended_order_administration_module/files/61192/pick_list.pdf)
 
-##Setup
+##Installation
 
-- Clone module to your eShop `modules/oe/` directory:
+- Make a new folder "extendedorderadmin" in the **modules/oe/ directory** of your shop installation. Download https://github.com/OXID-eSales/extended_order_administration_module/archive/master.zip and unpack it into this folder. **OR**
+- Git clone the module to your OXID eShop **modules/oe/** directory:
 ```
   git clone https://github.com/OXID-eSales/extended_order_administration_module.git extendedorderadmin
 ```
- 
-- Activate the module in administration area.
+- Activate the module in the administration panel.
 
 ##Uninstall
-Disable the module in administration area and delete module folder.
+Disable the module in administration area and/or delete module folder.
 
 ##License
 

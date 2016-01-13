@@ -29,6 +29,9 @@ It also allows to print all this information.
  
 - Activate the module in administration area.
 
+##Uninstall
+Disable the module in administration area and delete module folder.
+
 ##License
 
 Licensing of the software product depends on the shop edition used.

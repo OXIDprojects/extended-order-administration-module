@@ -26,12 +26,12 @@
 $sLangName = 'Deutsch';
 
 $aLang = array(
-    'charset' => 'ISO-8859-15', // Supports DE chars like: ä, ü, ö, etc.
+    'charset' => 'UTF-8',
     'oeextendedorderadmin' => 'OE Extended Order Admin',
 
     // Order List
     'OEEXTENDEDORDERADMIN_OXORDERDATE'                                  => 'Datum',
-    'OEEXTENDEDORDERADMIN_HEADER'                                       => 'Bestellübersicht',
+    'OEEXTENDEDORDERADMIN_HEADER'                                       => 'BestellÃ¼bersicht',
     'OEEXTENDEDORDERADMIN_OXARTNUM'                                     => 'Art.-Nr.',
     'OEEXTENDEDORDERADMIN_SUM'                                          => 'Anzahl',
     'OEEXTENDEDORDERADMIN_OXTITLE'                                      => 'Beschreibung',

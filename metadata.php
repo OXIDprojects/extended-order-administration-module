@@ -33,18 +33,17 @@ $sMetadataVersion = '1.1';
 $aModule = array(
     'id'          => 'oeextendedorderadmin',
     'title'       => array(
-        'de' => 'OE Die Bestellungsverwaltungserweiterung',
+        'de' => 'OE Erweiterte Bestellverwaltung',
         'en' => 'OE Extended Order Admin',
     ),
     'description' => array(
-        'de' => 'OE Die Bestellungsverwaltungserweiterung',
-        'en' => 'OE Extended Order Admin Module',
+        'de' => 'Erweiterte Ansichten der Bestellverwaltung für Shopbetreiber + Picklisten',
+        'en' => 'Extended views of order management for online merchants + pick lists',
     ),
     'thumbnail'   => 'out/pictures/picture.png',
     'version'     => '1.0.0',
     'author'      => 'OXID eSales AG',
     'url'         => 'http://www.oxid-esales.com/',
-    'email'       => 'info@oxid-esales.com',
     'extend'      => array(),
     'files'       => array(
         'oeextendedorderadminorderpackage' => 'oe/extendedorderadmin/controllers/admin/oeextendedorderadminorderpackage.php',

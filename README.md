@@ -19,6 +19,11 @@ Lists product items that are payed (excl. cash in advance) and not shipped yet. 
 
 [pick_list.pdf](https://github.com/OXID-eSales/extended_order_administration_module/files/61192/pick_list.pdf)
 
+Requirements
+------------
+
+* OXID eShop v6.*
+
 ##Installation
 
 - Make a new folder "extendedorderadmin" in the **modules/oe/ directory** of your shop installation. Download https://github.com/OXID-eSales/extended_order_administration_module/archive/master.zip and unpack it into this folder. **OR**

@@ -1,7 +1,7 @@
 Extended Order Admin module
 ===========================
 
-##Description
+## Description
 
 Extended views of order management for online merchants + pick lists
 
@@ -17,26 +17,26 @@ Lists product items that are payed (excl. cash in advance) and not shipped yet. 
 
 ![pick_list](https://cloud.githubusercontent.com/assets/3603014/11781386/34269672-a272-11e5-9e64-20d4295e8022.png)
 
-[pick_list.pdf](https://github.com/OXID-eSales/extended_order_administration_module/files/61192/pick_list.pdf)
+[pick_list.pdf](https://github.com/OXIDprojects/extended_order_administration_module/files/61192/pick_list.pdf)
 
 Requirements
 ------------
 
 * OXID eShop v6.*
 
-##Installation
+## Installation
 
-- Make a new folder "extendedorderadmin" in the **modules/oe/ directory** of your shop installation. Download https://github.com/OXID-eSales/extended_order_administration_module/archive/master.zip and unpack it into this folder. **OR**
+- Make a new folder "extendedorderadmin" in the **modules/oe/ directory** of your shop installation. Download https://github.com/OXIDprojects/extended-order-administration-module/archive/master.zip and unpack it into this folder. **OR**
 - Git clone the module to your OXID eShop **modules/oe/** directory:
 ```
-  git clone https://github.com/OXID-eSales/extended_order_administration_module.git extendedorderadmin
+  git clone https://github.com/OXIDprojects/extended-order-administration-module.git extendedorderadmin
 ```
 - Activate the module in the administration panel.
 
-##Uninstall
+## Uninstall
 Disable the module in administration area and/or delete module folder.
 
-##License
+## License
 
 Licensing of the software product depends on the shop edition used.
 The software for OXID eShop Community Edition is published under the GNU General Public License v3.

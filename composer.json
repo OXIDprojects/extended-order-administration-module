@@ -1,0 +1,16 @@
+{
+  "name": "oxid-esales/extended-order-administration-module",
+  "description": "Extended Order Admin module for OXID eShop.",
+  "type": "oxideshop-module",
+  "keywords": ["oxid", "modules", "eShop", "order"],
+  "homepage": "https://www.oxid-esales.com/en/home.html",
+  "license": [
+    "GPL-3.0",
+    "proprietary"
+  ],
+  "extra": {
+    "oxideshop": {
+      "target-directory": "oe/extendedorderadmin"
+    }
+  }
+}

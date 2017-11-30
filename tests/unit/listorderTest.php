@@ -114,13 +114,13 @@ class oeExtendedOrderAdminListOrderTest extends OxidTestCase
         $sSql = "select * from oxorder, oxorderarticles";
 
         $oView = oxNew('oeExtendedOrderAdminListOrder');
-        $sResultSql = "select * from oxorder, oxorderarticles order by oxorderamount";
+        $sResultSql = "select * from oxorder, oxorderarticles order by `oxorderamount`";
         $this->assertEquals($sResultSql, trim($oView->UNITprepareOrderByQuery($sSql)));
 
         $this->setRequestParameter("sort", array(0 => array("oxorderdate" => "asc")));
 
         $oView = oxNew('oeExtendedOrderAdminListOrder');
-        $sResultSql = "select * from oxorder, oxorderarticles group by oxorderarticles.oxartnum order by max(oxorder.oxorderdate) desc";
+        $sResultSql = "select * from oxorder, oxorderarticles group by oxorderarticles.oxartnum order by `oxorderdate` desc";
         $sSql = $oView->UNITprepareWhereQuery(array(), $sSql);
         $this->assertEquals($sResultSql, trim($oView->UNITprepareOrderByQuery($sSql)));
     }

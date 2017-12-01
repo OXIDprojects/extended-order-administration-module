@@ -3,7 +3,9 @@ Extended Order Admin module
 
 ## Description
 
-Extended views of order management for online merchants + pick lists
+A module for extended views of order management for online merchants + pick lists 
+for OXID eShop Community and Professional Edition (formerly part of the core).
+
 
 ![order_list](https://cloud.githubusercontent.com/assets/3603014/11781385/34046c32-a272-11e5-84eb-6489fbe9c847.png)
 

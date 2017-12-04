@@ -43,7 +43,7 @@ class oeExtendedOrderAdminListOrder extends Order_List
     {
         $aSort = oxRegistry::getConfig()->getRequestParameter('sort');
         if ($this->_aCurrSorting === null && isset($aSort[0]['oxorderdate'])) {
-            $this->_aCurrSorting[]["max(oxorder.oxorderdate)"] = "desc";
+            $this->_aCurrSorting[]["oxorderdate"] = "desc";
 
             return $this->_aCurrSorting;
         } else {

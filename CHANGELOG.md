@@ -10,7 +10,6 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 ### Added
 
 ### Changed
-- Adapted the module to be compatible with OXID eShop 6.
 
 ### Deprecated
 
@@ -20,5 +19,9 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 
 ### Security
 
+## [2.0.0] - 2017-12-05
+
+### Changed
+- Adapted the module to be compatible with OXID eShop 6.
 
 [Unreleased]: https://github.com/OXIDprojects/extended-order-administration-module/compare/HEAD...HEAD

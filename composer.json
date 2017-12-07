@@ -1,5 +1,5 @@
 {
-  "name": "oxid-esales/extended-order-administration-module",
+  "name": "oxid-projects/extended-order-administration-module",
   "description": "Extended Order Admin module for OXID eShop.",
   "type": "oxideshop-module",
   "keywords": ["oxid", "modules", "eShop", "order"],

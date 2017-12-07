@@ -36,8 +36,7 @@ In order to install the module via composer, run the following commands in comma
 (where the shop's composer.json file resides).
 
 ```
-composer config repositories.oxid-esales/extended-order-administration-module vcs https://github.com/OXIDprojects/extended-order-administration-module
-composer require oxid-esales/extended-order-administration-module:dev-master
+composer require oxid-projects/extended-order-administration-module
 ```
 
 ### Module installation via repository cloning

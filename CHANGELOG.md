@@ -19,6 +19,11 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 
 ### Security
 
+## [2.0.1] - 2017-12-07
+
+### Added
+- Module available on packagist
+
 ## [2.0.0] - 2017-12-05
 
 ### Changed
